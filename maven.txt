@@ -1,0 +1,44 @@
+                                                             maven 
+
+.maven is a build tool
+.it will work on pom.xml
+.pom :project object model 
+
+
+it is having 7 to 8 life cycles
+
+1.clear
+2.site
+3.deploy
+4.package
+5.validate
+6.compile
+7.test
+
+*which file are using in maven
+
+   pom.xml
+
+tag inside pom.xml file 
+1.group id 
+2.artifat id
+3.version id
+
+*what is maven 
+
+maven is is a project mangement tool that is based on pom.xml it is used for project build,dependency and document.
+.it is a build process
+
+*maven required
+
+.maven project eliminate adding set of jar in each project.
+. it create write project structure &building and deploying the project
+
+*what is build tool
+
+.generate source code
+. compile source code
+. package compile code into  jar & zip file 
+.install the package code in local server repository
+
+ 
