@@ -1,0 +1,21 @@
+				l&t qestion
+*how to configure in jenkins
+*peridoic backup how to build particular date nd time
+
+			
+
+	
+				2nd interview
+ *how to configure in jenkins
+* how to build in jenkins
+*how to install pluging manual
+*how to create in pipeline
+
+				3rd interview
+
+*svn & git different
+*what we doing in git
+*what is git rebase
+*what is git bash
+*what do daily in master& slave
+*continos integration
